@@ -10,29 +10,36 @@
 
 <h2>Workshop Organizers</h2>
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+<div style="
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  justify-content: center;
+">
 
-  <!-- Eman -->
-  <div style="text-align: center;">
+  <!-- General Chair -->
+  <div style="text-align: center; width: 220px;">
     <img src="images/eman-hammad.jpg"
          alt="Dr. Eman Hammad"
          style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
-    <p style="margin-top:10px;">
-      <strong>Dr. Eman Hammad (General Chair)</strong><br>
+    <p style="margin-top:10px; line-height:1.4;">
+      <strong>Dr. Eman Hammad</strong><br>
+      <em>General Chair</em><br>
       Texas A&amp;M University<br>
-      eman.hammad@tamu.edu
+      <a href="mailto:eman.hammad@tamu.edu">eman.hammad@tamu.edu</a>
     </p>
   </div>
 
-  <!-- Jaewon -->
-  <div style="text-align: center;">
+  <!-- Co-Chair -->
+  <div style="text-align: center; width: 220px;">
     <img src="images/jaewon-kim.jpg"
          alt="Dr. Jaewon Kim"
          style="width:180px; height:180px; border-radius:50%; object-fit:cover;">
-    <p style="margin-top:10px;">
-      <strong>Dr. Jaewon Kim (Co-Chair)</strong><br>
+    <p style="margin-top:10px; line-height:1.4;">
+      <strong>Dr. Jaewon Kim</strong><br>
+      <em>Co-Chair</em><br>
       Texas A&amp;M Global Cyber Research Institute<br>
-      j1k@tamu.edu
+      <a href="mailto:j1k@tamu.edu">j1k@tamu.edu</a>
     </p>
   </div>
 

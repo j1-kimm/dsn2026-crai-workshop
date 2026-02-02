@@ -4,7 +4,7 @@
 **Theme:** From Monolithic Brittleness to Composable Trust
 
 **Co-located with:** IEEE/IFIP DSN 2026  
-**Date & Location:** June 22, 2026 | Charlotte, USA
+**Date & Location:** June 22, 2026 | Charlotte, NC, USA
 
 ---
 
@@ -19,7 +19,7 @@
 
   <!-- General Chair -->
   <div style="text-align: center; width: 220px;">
-    <img src="images/eman-hammad.jpg"
+    <img src="images/eman-hammad-2.jpg"
          alt="Dr. Eman Hammad"
          style="width:180px; height:250px; border-radius:10%; object-fit:cover;">
     <p style="margin-top:10px; line-height:1.4;">

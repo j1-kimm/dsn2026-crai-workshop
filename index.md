@@ -72,7 +72,7 @@ decomposing agentic workflows into analyzable modules with explicit interfaces, 
 ---
 
 ## Format
-- Keynote (45 min)
+- Keynotes (45 min)
 - 3 paper sessions (regular + short)
 - Panel (60 min)
 - Open discussion

@@ -96,3 +96,19 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
 - Camera-ready: **May 10, 2026**
 
 ---
+
+<div style="margin-top: 30px; text-align: center;">
+  <a href="files/CRAI2026_flyer.pdf" target="_blank">
+    <img src="images/crai2026_flyer.png"
+         alt="CRAI 2026 Flyer (PDF)"
+         style="
+           max-width: 600px;
+           width: 100%;
+           border: 1px solid #ccc;
+           box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+         ">
+  </a>
+  <p style="margin-top: 8px; font-size: 0.9em;">
+    <em>Click the image to download the CRAI 2026 flyer (PDF)</em>
+  </p>
+</div>

@@ -92,8 +92,8 @@ PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for reg
 
 ### Important Dates (Anywhere on Earth, AoE)
 - Submission: **March 31, 2026**
-- Notification: **April 30, 2026**
-- Camera-ready: **May 10, 2026**
+- Notification: **April 15, 2026**
+- Camera-ready: **April 27, 2026**
 
 ---
 

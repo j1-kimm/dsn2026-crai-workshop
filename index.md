@@ -91,8 +91,8 @@ We invite submissions on composable resilience for agentic AI, bridging AI depen
 PDF, IEEE Computer Society 8.5x11 two-column format; double-blind review for regular research papers.
 
 ### Important Dates (Anywhere on Earth, AoE)
-- Submission: **March 31, 2026**
-- Notification: **April 15, 2026**
+- Submission: **April 10, 2026**
+- Notification: **April 20, 2026**
 - Camera-ready: **April 27, 2026**
 
 <h3 style="color: red;">Submission</h3>

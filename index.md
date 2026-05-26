@@ -71,6 +71,21 @@ decomposing agentic workflows into analyzable modules with explicit interfaces, 
 
 ---
 
+## Workshop Schedule
+
+<div style="margin-top: 20px; text-align: center;">
+  <img src="images/workshop_schedule.png"
+       alt="CRAI 2026 Workshop Schedule"
+       style="
+         max-width: 900px;
+         width: 100%;
+         border: 1px solid #ccc;
+         box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+       ">
+</div>
+
+---
+
 ## Format
 - Keynotes (45 min)
 - 3 paper sessions (regular + short)

@@ -53,6 +53,21 @@ decomposing agentic workflows into analyzable modules with explicit interfaces, 
 
 ---
 
+## Workshop Schedule
+
+<div style="margin-top: 20px; text-align: center;">
+  <img src="images/workshop_schedule.png"
+       alt="CRAI 2026 Workshop Schedule"
+       style="
+         max-width: 900px;
+         width: 100%;
+         border: 1px solid #ccc;
+         box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+       ">
+</div>
+
+---
+
 ## Topics of Interest
 **A. Compositional Architectures & Software Engineering**
 - Modular agentic workflows; verified orchestration; sandboxing & isolation; software metrics
@@ -68,21 +83,6 @@ decomposing agentic workflows into analyzable modules with explicit interfaces, 
 
 **E. Domain-Specific Resilient Agents**
 - CPS agents (power/medical/manufacturing), autonomous driving, healthcare & industrial automation
-
----
-
-## Workshop Schedule
-
-<div style="margin-top: 20px; text-align: center;">
-  <img src="images/workshop_schedule.png"
-       alt="CRAI 2026 Workshop Schedule"
-       style="
-         max-width: 900px;
-         width: 100%;
-         border: 1px solid #ccc;
-         box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-       ">
-</div>
 
 ---
 

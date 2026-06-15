@@ -56,7 +56,7 @@ decomposing agentic workflows into analyzable modules with explicit interfaces, 
 ## Workshop Schedule
 
 <div style="margin-top: 20px; text-align: center;">
-  <img src="images//CRAI_workshop_schedule_new_v4.png"
+  <img src="images//CRAI_workshop_schedule_new_v5.png"
        alt="CRAI 2026 Workshop Schedule"
        style="
          max-width: 900px;
